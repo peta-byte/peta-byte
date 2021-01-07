@@ -39,6 +39,9 @@
 <a href="https://github.com/peta-byte/GraphQL-Vue-Playground">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peta-byte&repo=GraphQL-Vue-Playground&theme=jolly" />
 </a>
+  <a href="https://github.com/peta-byte/conventional-commits-changelog-generation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peta-byte&repo=conventional-commits-changelog-generation&theme=jolly&card_width=200" />
+</a>
   </p>
 <br />
 </p>
