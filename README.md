@@ -22,15 +22,15 @@
 <p>
   <h2 align="center">Latest</h2>
   <p align="center">
+  <a href="https://github.com/peta-byte/Dynamic-Debate-Mobile">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peta-byte&repo=Dynamic-Debate-Mobile&theme=jolly" />
+  </a>
   <a href="https://github.com/peta-byte/Switching-Modes-Mobile---Lite">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peta-byte&repo=Switching-Modes-Mobile---Lite&theme=jolly" />
-</a>
+  </a>
   <a href="https://github.com/peta-byte/Movie-Time-ft-Peta">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peta-byte&repo=Movie-Time-ft-Peta&theme=jolly" />
-</a>
-<a href="https://github.com/peta-byte/Testing-Waters">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peta-byte&repo=Testing-Waters&theme=jolly" />
-</a>
+  </a>
   </p>
 <br />
 </p>
