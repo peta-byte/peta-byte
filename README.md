@@ -30,10 +30,10 @@
   <a href="https://github.com/peta-byte/Movie-Time-ft-Peta">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peta-byte&repo=Movie-Time-ft-Peta&theme=jolly" />
   </a>
+  <p> 
+    <img height="300" src="https://github.com/peta-byte/peta-byte/blob/main/peta-octocats.png?raw=true" />
+  </p>
   </p>
 <br />
-</p>
-<p align="left"> 
-    <img height="300" src="https://github.com/peta-byte/peta-byte/blob/main/peta-octocats.png?raw=true" />
 </p>
 
