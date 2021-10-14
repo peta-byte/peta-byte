@@ -1,4 +1,4 @@
-<p align="center"> 
+<p align="center">
   <hr />
   <p align="center">
   <img align="center" src="https://img.shields.io/badge/vscode-tool-blue?style=flat" />
@@ -17,7 +17,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peta-byte&theme=jolly&layout=compact" />
   </p>
-</p>
 <br />
 <p>
   <h2 align="center">Latest</h2>
@@ -33,5 +32,8 @@
   </a>
   </p>
 <br />
+</p>
+<p align="left"> 
+    <img height="300" src="https://github.com/peta-byte/peta-byte/blob/main/peta-octocats.png?raw=true" />
 </p>
 
