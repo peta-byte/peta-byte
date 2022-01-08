@@ -21,14 +21,14 @@
 <p>
   <h2 align="center">Latest</h2>
   <p align="center">
+  <a href="https://github.com/peta-byte/jupyter-data-analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peta-byte&repo=jupyter-data-analysis&theme=jolly" />
+  </a>
   <a href="https://github.com/peta-byte/Dynamic-Debate-Mobile">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peta-byte&repo=Dynamic-Debate-Mobile&theme=jolly" />
   </a>
-  <a href="https://github.com/peta-byte/Switching-Modes-Mobile---Lite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peta-byte&repo=Switching-Modes-Mobile---Lite&theme=jolly" />
-  </a>
-  <a href="https://github.com/peta-byte/Movie-Time-ft-Peta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peta-byte&repo=Movie-Time-ft-Peta&theme=jolly" />
+  <a href="https://github.com/peta-byte/js-arrays">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peta-byte&repo=js-arrays&theme=jolly" />
   </a>
   <p> 
     <img height="300" src="https://github.com/peta-byte/peta-byte/blob/main/peta-octocats.png?raw=true" />
