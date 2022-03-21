@@ -1,5 +1,5 @@
 <p align="center">
-  <i>Minimum Viable Products</i> (MVPs) and <i>Proof of Concepts</i> (PoCs) are some of the quickest ways to make ideas more tangible and to experiment with new technologies (relatively speaking). Albeit on a smaller scale, and perhaps not to the letter, here's where I put some of mine.
+  <i>Minimum Viable Products</i> (MVPs) and <i>Proof of Concepts</i> (PoCs) are some of the quickest ways to make ideas more tangible and to experiment with new technologies (relatively speaking). Albeit on a smaller scale, here's where I put some of mine.
 </p>
 <p align="center">
   <hr />
