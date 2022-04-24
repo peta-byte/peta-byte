@@ -24,14 +24,14 @@
 <p>
   <h2 align="center">Latest</h2>
   <p align="center">
-  <a href="https://github.com/peta-byte/jupyter-data-analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peta-byte&repo=jupyter-data-analysis&theme=jolly" />
-  </a>
-  <a href="https://github.com/peta-byte/Dynamic-Debate-Mobile">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peta-byte&repo=Dynamic-Debate-Mobile&theme=jolly" />
+  <a href="https://github.com/peta-byte/Countries-Cities">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peta-byte&repo=Countries-Cities&theme=jolly" />
   </a>
   <a href="https://github.com/peta-byte/kafka-js">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peta-byte&repo=kafka-js&theme=jolly" />
+  </a>
+  <a href="https://github.com/peta-byte/Dynamic-Debate-Mobile">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peta-byte&repo=Dynamic-Debate-Mobile&theme=jolly" />
   </a>
   <p> 
     <img height="300" src="https://github.com/peta-byte/peta-byte/blob/main/peta-octocats.png?raw=true" />
