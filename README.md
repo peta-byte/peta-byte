@@ -15,7 +15,12 @@
   <img align="center" src="https://img.shields.io/badge/apollo-tool-violet?style=flat" />
   <img align="center" src="https://img.shields.io/badge/bootstrap-tool-blueviolet?style=flat" />
   <img align="center" src="https://img.shields.io/badge/nodejs-tool-brightgreen?style=flat" />  
-  <img align="center" src="https://img.shields.io/badge/reactnative-tool-indigo?style=flat" /> 
+  <img align="center" src="https://img.shields.io/badge/reactnative-tool-indigo?style=flat" />
+  <img align="center" src="https://img.shields.io/badge/docker-tool-blue?style=flat" />
+  <img align="center" src="https://img.shields.io/badge/kubernetes-tool-green?style=flat" />
+  <img align="center" src="https://img.shields.io/badge/postman-tool-brown?style=flat" />
+  <img align="center" src="https://img.shields.io/badge/insomnia-tool-violet?style=flat" />
+  <img align="center" src="https://img.shields.io/badge/gcp-tool-red?style=flat" />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peta-byte&theme=jolly&layout=compact" />
