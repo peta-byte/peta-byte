@@ -29,6 +29,9 @@
 <p>
   <h2 align="center">Latest</h2>
   <p align="center">
+  <a href="https://github.com/peta-byte/chepkorir-webfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peta-byte&repo=chepkorir-webfolio&theme=jolly" />
+  </a>
   <a href="https://github.com/peta-byte/Countries-Cities">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peta-byte&repo=Countries-Cities&theme=jolly" />
   </a>
