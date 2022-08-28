@@ -23,6 +23,7 @@
   <img align="center" src="https://img.shields.io/badge/gcp-tool-red?style=flat" />
   <img align="center" src="https://img.shields.io/badge/nx-tool-blue?style=flat" />
   <img align="center" src="https://img.shields.io/badge/nestjs-tool-red?style=flat" />
+  <img align="center" src="https://img.shields.io/badge/npm-tool-orange?style=flat" />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peta-byte&theme=jolly&layout=compact" />
