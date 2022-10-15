@@ -3,28 +3,9 @@
 </p>
 <p align="center">
   <hr />
-  <p align="center">
-  <img align="center" src="https://img.shields.io/badge/vscode-tool-blue?style=flat" />
-  <img align="center" src="https://img.shields.io/badge/intellij-tool-red?style=flat" /> 
-  <img align="center" src="https://img.shields.io/badge/graphql-tool-ff69b4?style=flat" />  
-  <img align="center" src="https://img.shields.io/badge/cypress-tool-brightgreen?style=flat" /> 
-  <img align="center" src="https://img.shields.io/badge/heroku-tool-blueviolet?style=flat" />
-  <img align="center" src="https://img.shields.io/badge/angular-tool-red?style=flat" /> 
-  <img align="center" src="https://img.shields.io/badge/azure-tool-blue?style=flat" />
-  <img align="center" src="https://img.shields.io/badge/git-tool-orange?style=flat" />
-  <img align="center" src="https://img.shields.io/badge/apollo-tool-violet?style=flat" />
-  <img align="center" src="https://img.shields.io/badge/bootstrap-tool-blueviolet?style=flat" />
-  <img align="center" src="https://img.shields.io/badge/nodejs-tool-brightgreen?style=flat" />  
-  <img align="center" src="https://img.shields.io/badge/reactnative-tool-indigo?style=flat" />
-  <img align="center" src="https://img.shields.io/badge/docker-tool-blue?style=flat" />
-  <img align="center" src="https://img.shields.io/badge/kubernetes-tool-green?style=flat" />
-  <img align="center" src="https://img.shields.io/badge/postman-tool-brown?style=flat" />
-  <img align="center" src="https://img.shields.io/badge/insomnia-tool-violet?style=flat" />
-  <img align="center" src="https://img.shields.io/badge/gcp-tool-red?style=flat" />
-  <img align="center" src="https://img.shields.io/badge/nx-tool-blue?style=flat" />
-  <img align="center" src="https://img.shields.io/badge/nestjs-tool-red?style=flat" />
-  <img align="center" src="https://img.shields.io/badge/npm-tool-orange?style=flat" />
-  <img align="center" src="https://img.shields.io/badge/ionic-tool-indigo?style=flat" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,graphql,mysql,heroku,angular,azure,git,apollo,bootstrap,nodejs,react,docker,kubernetes,nestjs,gcp,express,netlify,jenkins,js,ts,nginx,jest,reactivex,sass,vue,webpack&perline=18" />
+  </a>
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peta-byte&theme=jolly&layout=compact" />
