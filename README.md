@@ -17,14 +17,19 @@
   <a href="https://github.com/peta-byte/loading-cards">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peta-byte&repo=loading-cards&theme=jolly" />
   </a>
-  <a href="https://github.com/peta-byte/ng-ionic-basics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peta-byte&repo=ng-ionic-basics&theme=jolly" />
-  </a>
   <a href="https://github.com/peta-byte/ngx-shareable">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peta-byte&repo=ngx-shareable&theme=jolly" />
   </a>
+  <a href="https://github.com/peta-byte/ng-ionic-basics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peta-byte&repo=ng-ionic-basics&theme=jolly" />
+  </a>
   <p> 
     <img height="300" src="https://github.com/peta-byte/peta-byte/blob/main/peta-octocats.png?raw=true" />
+  </p>
+   <p align="end">
+    <a href="https://www.buymeacoffee.com/chepkorir">
+      <img height="50" src="https://github.com/peta-byte/peta-byte/blob/main/bmc-logo-no-background.png?raw=true" />
+    </a>
   </p>
   </p>
 <br />
