@@ -28,7 +28,7 @@
   </p>
    <p align="end">
     <a href="https://www.buymeacoffee.com/chepkorir">
-      <img height="50" src="https://github.com/peta-byte/peta-byte/blob/main/bmc-logo-no-background.png?raw=true" />
+      <img height="50" src="https://github.com/peta-byte/peta-byte/blob/main/bmc-logo-yellow.png?raw=true" />
     </a>
   </p>
   </p>
