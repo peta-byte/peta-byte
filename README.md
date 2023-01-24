@@ -15,13 +15,13 @@
   <h2 align="center">Latest</h2>
   <p align="center">
   <a href="https://github.com/peta-byte/write">
-  <img align="center" src="https://github-readme-stats-peta-byte.vercel.app/api/pin/?username=peta-byte&repo=write&theme=jolly" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peta-byte&repo=write&theme=jolly" />
   </a>
   <a href="https://github.com/peta-byte/loading-cards">
-  <img align="center" src="https://github-readme-stats-peta-byte.vercel.app/api/pin/?username=peta-byte&repo=loading-cards&theme=jolly" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peta-byte&repo=loading-cards&theme=jolly" />
   </a>
   <a href="https://github.com/peta-byte/ng-ionic-basics">
-  <img align="center" src="https://github-readme-stats-peta-byte.vercel.app/api/pin/?username=peta-byte&repo=ng-ionic-basics&theme=jolly" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peta-byte&repo=ng-ionic-basics&theme=jolly" />
   </a>
   <p> 
     <img height="300" src="https://github.com/peta-byte/peta-byte/blob/main/peta-octocats.png?raw=true" />
