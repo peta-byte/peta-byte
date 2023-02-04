@@ -8,7 +8,7 @@
   </a>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats-peta-byte.vercel.app/api/top-langs/?username=peta-byte&theme=jolly&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peta-byte&theme=jolly&layout=compact" />
   </p>
 <br />
 <p>
